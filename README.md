@@ -1,7 +1,7 @@
 ### Olá eu sou a Jaqueline Rodrigues 👋
 
 - 🔭 Atualmente me encontro em transição de carreira para área de TI
-- 🌱 Estudando HTML, CSS, JavaScript, TypeScript, React, GraphQl.
+- 🌱 Estudando HTML, CSS, JavaScript, TypeScript, React, GraphQl e Node.js.
 - 😄 Pronouns: ela/dela
 
 <div>
