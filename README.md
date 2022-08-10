@@ -1,8 +1,8 @@
 ### Olá eu sou a Jaqueline Rodrigues 👋
 
-- 🔭 Atualmente me encontro em transição de carreira para área de TI
-- 🌱 Estuadnte de Tecnologia em Sistemas de Computação na UFF
-- 🌱 Estudando HTML, CSS, JavaScript, TypeScript, JQuery, Angular e Node.js.
+- 🔭 Estagiária na Accenture Brasil
+- 🌱 Estudante de Tecnologia em Sistemas de Computação na UFF
+- 🌱 Estudando React | Typescript
 - 😄 Pronouns: ela/dela
 
 <div>
